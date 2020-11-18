@@ -7,5 +7,5 @@
 >使用python的Django框架建站
 
 ### 学习进度
-HTML基础学完了 笔记：<a href="https://github.com/fanfan838012328/note/wiki/HTML-note">note</a>
-Python还在学习基础语法
+HTML基础学完了 笔记：<a href="https://github.com/fanfan838012328/note/wiki/HTML-note">note</a>       
+CSS3 <a href="https://github.com/fanfan838012328/note/wiki/CSS-note"> note</a>
