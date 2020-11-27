@@ -8,4 +8,5 @@
 
 ### 学习进度
 HTML基础学完了 笔记：<a href="https://github.com/fanfan838012328/note/wiki/HTML-note">note</a>       
-CSS3 <a href="https://github.com/fanfan838012328/note/wiki/CSS-note"> note</a>
+CSS3 <a href="https://github.com/fanfan838012328/note/wiki/CSS-note"> note</a>      
+项目杂记 <a href="https://github.com/fanfan838012328/note/wiki/%E9%A1%B9%E7%9B%AE%E6%9D%82%E8%AE%B0_1" >note </a>
